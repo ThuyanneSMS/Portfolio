@@ -33,7 +33,8 @@ JavaScript
 # 📊 Status do Exercicio
 
 Em desenvolvimento contínuo...
-## 🫱🏽‍🫲🏽Contribuidores
+
+# 🫱🏽‍🫲🏽Contribuidores
 
 Agradeço pela oportunidade de participar deste Challenge ONE e ao incentivo dado à inclusão por meio da aproximação com a tecnologia.
 
